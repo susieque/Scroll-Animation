@@ -1,0 +1,15 @@
+{
+  "name": "scroll-animation",
+  "version": "1.0.0",
+  "description": "Scroll Animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Scroll-Animation"
+  },
+  "author": "Susie",
+  "license": "ISC"
+}
